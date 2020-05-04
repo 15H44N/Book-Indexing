@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cryptic-woods-276221",
+  "private_key_id": "799aee4b4e9420c4fb52ac565c799af7c7478f20",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/ovcQmrqcGAkp\nXtu16tyLaKPjd0miwHbsAcASTA3xcc+OB6yJ1pDCyv+KTngM5KlmjNA96kXbsoIh\nsUOgRvNYiOJdcFMc87JLpkWkwkHCPa4UWZp/WK7ykCSKGWHyHsG3iPU5vTZzqnM2\nyIAiCdPzCKerlfPLFpf/DbwFsQkB0CL8EqzPsCddcFDfGSbZoIJpt1W9nHZbLn+g\neTdipRekd3XnDe+Sk1Y3jKTe7xi+Hw1nj+v9WEs1+1bZRaJMWxLTZLAccLlvVl3d\nkHlGmZ0w/yWX+VSbDKCPyvDDKWo/58K/fjBA+vG3Ppj3cqVoT/UIDWFUajDnzr8L\n6vZl0JXhAgMBAAECggEABNJX7OqWt8UVTG2dAbQQw99wcbGDeFlHOLePzooMNwMn\n/6zm4QI1etg2kyNXqwvhDQHtnqQviShB9NDv6JdGaceqaeNQzQd+6L88jPlgBBAP\nGmcZf3sizjq1F6YtOCVA1qJHGMJ/bWw4SURk0G5uvzR8WwFrLJTDQuUkoiBG360y\nu94U7y292QjkkipGhyo/hcH+k/h7zHPkoJyLm3iHwwEKYRNp9p1sASYVP46sWHaq\nrk1Iai09cLEvnji/1ojdb39yX1YQmDmfaCuo/eWQqsxDD/k2ZNDPZB1u+jVq60ak\nLkJThAWGZBZVV3Hruua6DcYtnstNgKFpAw79maAVgQKBgQDsP8IKwiqgYLztaZU0\nJjR+qoWM/c/QpsjYoPyyi2qinuMEvJNqcC95XXXzfCOGdxt2wtrqy8wDwAr9rPri\nu/YWw4cgpXpDzxAugaIGunSSnAlmdlwpgbQhLKEmcSi6f6LkVnWGrSQ2uH+AYtUQ\nLiUhoPG4nyf4l3Bm3FV1ywiqQQKBgQDPqGdKrHjIaW0/N92YX4YbSTNhr+LiUiRC\ndlVt8sYZTThlYzdgndyor6cQTOg/8Zq5Btnc14RS4dkg/vqoivBYzCo8aOSivWYK\nIX95xHuBqWB3AnF+0GJ4Mv6dtkNO82fCMvdn/2cAc+W8Tufc7DzcgRYbEw/aYLPx\njNJihC7DoQKBgGAGckqJLWZOq7wcJEc0GDY7/ViXebandA+JL+0qecdrqX6tX4Xt\n334HHQBAvvfSxdj5zp2NBHmpv03o13j9SUNrais813tkWIFus3rkoqlMvw1kooVE\ncQDi8QV9DT7wzjbdZZu+GHAdgcWfZlbTSshmcJnIJykF9Ov6NspQIk+BAoGBAKNa\n496vbNijbuhzZyPtyU5/uCbZuU62tYV/F1dFyyauQ3YmpbKgnKwqee7twSpEQqXZ\nSNtcwuB8gFVfoAmkOsxv163sCignfDTuAxzkPxBSEOuuBWBwR3YtD3U7oxlhizcO\n5udt2DZX9dq769Q0FvCTr7MevLLardOQJxSOzUbhAoGBAI+TZpbANyi9/+/nVLQK\nKi4QffhmB3Zgg1TwBeNYNc+rxKL1vr9ixiQV7fYig9gE1UnK5AOOSus5ROmEkdO2\nE6RAt4fh1H4uHU04+7xw7V5zrh21ZL+aFHvgQCxpCUY7NQjy5vReWI3wC+PPlYQ6\n83SLiSv/FRPOUAsz5VtkKivK\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-sheets@cryptic-woods-276221.iam.gserviceaccount.com",
+  "client_id": "101660548700177804195",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheets%40cryptic-woods-276221.iam.gserviceaccount.com"
+}
